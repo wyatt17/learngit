@@ -1,0 +1,383 @@
+1660273263475	geckodriver	INFO	Listening on 127.0.0.1:62950
+1660273266547	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "62951" "-no-remote" "-profile" "C:\\Users\\ADMINI~1\\AppData\\Local\\Temp\\rust_mozprofile1AQX7J"
+1660273268337	Marionette	INFO	Marionette enabled
+1660273268343	Marionette	INFO	Listening on port 62972
+WebDriver BiDi listening on ws://localhost:62951
+1660273269290	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\ADMINI~1\\AppData\\Local\\Temp\\rust_mozprofile1AQX7J\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:62951/devtools/browser/c91fefd1-ce3f-4fd7-8807-ac72d3ab4695
+JavaScript warning: https://hectorstatic.baidu.com/96c9c06653ba892e.js, line 3: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 577: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+1660273347027	Marionette	INFO	Stopped listening on port 62972
+e-debugging-port" "63083" "-no-remote" "-profile" "C:\\Users\\ADMINI~1\\AppData\\Local\\Temp\\rust_mozprofilesQeF5n"
+1660273344666	Marionette	INFO	Marionette enabled
+1660273344671	Marionette	INFO	Listening on port 63091
+WebDriver BiDi listening on ws://localhost:63083
+1660273345091	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1660273346079	Marionette	INFO	Stopped listening on port 63091
+1660273346082	CDP	WARN	Failed to remove undefined (Could not parse path (undefined): NS_ERROR_FILE_UNRECOGNIZED_PATH)
+[Parent 5588, IPC I/O Parent] WARNING: DuplicateHandle failed for handle 0 in TransferHandles: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc:723
+console.error: Region.jsm: "Error fetching region" (new TypeError("NetworkError when attempting to fetch resource.", ""))
+console.error: Region.jsm: "Failed to fetch region" (new Error("NO_RESULT", "resource://gre/modules/Region.jsm", 421))
+1660273350324	geckodriver	INFO	Listening on 127.0.0.1:63105
+1660273353425	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "63106" "-no-remote" "-profile" "C:\\Users\\ADMINI~1\\AppData\\Local\\Temp\\rust_mozprofile4uEwvO"
+1660273353757	Marionette	INFO	Marionette enabled
+1660273353761	Marionette	INFO	Listening on port 63112
+WebDriver BiDi listening on ws://localhost:63106
+1660273354106	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\ADMINI~1\\AppData\\Local\\Temp\\rust_mozprofile4uEwvO\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:63106/devtools/browser/ea62e934-b06c-49fe-bbf6-99314d64c5e1
+JavaScript warning: https://hectorstatic.baidu.com/96c9c06653ba892e.js, line 3: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1660273412696	Marionette	INFO	Stopped listening on port 63111660273415368	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "63218" "-no-remote" "-profile" "C:\\Users\\ADMINI~1\\AppData\\Local\\Temp\\rust_mozprofileA5tHhB"
+1660273415719	Marionette	INFO	Marionette enabled
+1660273415723	Marionette	INFO	Listening on port 63225
+WebDriver BiDi listening on ws://localhost:63218
+1660273416094	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\ADMINI~1\\AppData\\Local\\Temp\\rust_mozprofileA5tHhB\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:63218/devtools/browser/9fd8937b-931f-4061-b3f1-beef3726e28d
+JavaScript warning: https://hectorstatic.baidu.com/96c9c06653ba892e.js, line 3: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.baidu.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.baidu.com"
+1660273491516	Marionette	INFO	Stopped listening on port 63221660273493923	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "63409" "-no-remote" "-profile" "C:\\Users\\ADMINI~1\\AppData\\Local\\Temp\\rust_mozprofileZ9a3NY"
+1660273494254	Marionette	INFO	Marionette enabled
+1660273494258	Marionette	INFO	Listening on port 63417
+WebDriver BiDi listening on ws://localhost:63409
+1660273494681	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\ADMINI~1\\AppData\\Local\\Temp\\rust_mozprofileZ9a3NY\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:63409/devtools/browser/9cd86d55-4257-4cae-9b5d-d68bcd8c6f19
+JavaScript warning: https://hectorstatic.baidu.com/96c9c06653ba892e.js, line 3: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.baidu.com"
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 577: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+1660273643414	Marionette	INFO	Stopped listening on port 63417
+1660273769305	geckodriver	INFO	Listening on 127.0.0.1:63774
+1660273772367	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "63775" "-no-remote" "-profile" "C:\\Users\\ADMINI~1\\AppData\\Local\\Temp\\rust_mozprofilejn0XP7"
+1660273772783	Marionette	INFO	Marionette enabled
+1660273772787	Marionette	INFO	Listening on port 63783
+WebDriver BiDi listening on ws://localhost:63775
+1660273773042	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\ADMINI~1\\AppData\\Local\\Temp\\rust_mozprofilejn0XP7\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:63775/devtools/browser/257b7aaf-5909-40fd-8050-bf8ed5267723
+JavaScript warning: https://hectorstatic.baidu.com/96c9c06653ba892e.js, line 3: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.baidu.com"
+1660273780936	Marionette	INFO	Stopped listening on port 63783
+0273779390	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "63838" "-no-remote" "-profile" "C:\\Users\\ADMINI~1\\AppData\\Local\\Temp\\rust_mozprofileQBPgJx"
+1660273779694	Marionette	INFO	Marionette enabled
+1660273779699	Marionette	INFO	Listening on port 63904
+WebDriver BiDi listening on ws://localhost:63838
+1660273780080	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\ADMINI~1\\AppData\\Local\\Temp\\rust_mozprofileQBPgJx\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:63838/devtools/browser/59039fb9-d06f-48cb-bc91-249bd0d0c1bd
+JavaScript warning: https://hectorstatic.baidu.com/96c9c06653ba892e.js, line 3: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.baidu.com"
+1660273791398	Marionette	INFO	Stopped listening on port 63904
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1660273826009	geckodriver	INFO	Listening on 127.0.0.1:64032
+1660273829102	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "64033" "-no-remote" "-profile" "C:\\Users\\ADMINI~1\\AppData\\Local\\Temp\\rust_mozprofilecZceaS"
+1660273829430	Marionette	INFO	Marionette enabled
+1660273829435	Marionette	INFO	Listening on port 64043
+WebDriver BiDi listening on ws://localhost:64033
+1660273829902	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\ADMINI~1\\AppData\\Local\\Temp\\rust_mozprofilecZceaS\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:64033/devtools/browser/734d91ae-f688-4e9e-ae1e-db1f279f9289
+JavaScript warning: https://hectorstatic.baidu.com/96c9c06653ba892e.js, line 3: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.baidu.com"
+1660273846796	Marionette	INFO	Stopped listening on port 64043
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+remote-debugging-port" "64096" "-no-remote" "-profile" "C:\\Users\\ADMINI~1\\AppData\\Local\\Temp\\rust_mozprofileG01bo2"
+1660273836648	Marionette	INFO	Marionette enabled
+1660273836653	Marionette	INFO	Listening on port 64155
+WebDriver BiDi listening on ws://localhost:64096
+1660273837006	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\ADMINI~1\\AppData\\Local\\Temp\\rust_mozprofileG01bo2\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:64096/devtools/browser/455815ce-ff58-456b-96a9-fba4ed6c0945
+JavaScript warning: https://hectorstatic.baidu.com/96c9c06653ba892e.js, line 3: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.baidu.com"
+1660273845161	Marionette	INFO	Stopped listening on port 64155
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1660274051020	geckodriver	INFO	Listening on 127.0.0.1:64467
+1660274054076	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "64468" "-no-remote" "-profile" "C:\\Users\\ADMINI~1\\AppData\\Local\\Temp\\rust_mozprofileZdbATS"
+1660274054418	Marionette	INFO	Marionette enabled
+1660274054422	Marionette	INFO	Listening on port 64475
+WebDriver BiDi listening on ws://localhost:64468
+1660274054762	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\ADMINI~1\\AppData\\Local\\Temp\\rust_mozprofileZdbATS\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:64468/devtools/browser/0f2e74d5-34b5-4efb-a4f2-6586c1c6b8e8
+1660274079192	Marionette	INFO	Stopped listening on port 64475
+0274059474	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "64491" "-no-remote" "-profile" "C:\\Users\\ADMINI~1\\AppData\\Local\\Temp\\rust_mozprofilezsgNk2"
+1660274059818	Marionette	INFO	Marionette enabled
+1660274059823	Marionette	INFO	Listening on port 64509
+WebDriver BiDi listening on ws://localhost:64491
+1660274060168	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\ADMINI~1\\AppData\\Local\\Temp\\rust_mozprofilezsgNk2\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:64491/devtools/browser/c8895bfe-5195-4789-8e4b-e78582c06ac6
+JavaScript warning: https://hectorstatic.baidu.com/96c9c06653ba892e.js, line 3: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.baidu.com"
+1660274063628	Marionette	INFO	Stopped listening on port 64509
+1660274064386	geckodriver	INFO	Listening on 127.0.0.1:64567
+1660274067483	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "64568" "-no-remote" "-profile" "C:\\Users\\ADMINI~1\\AppData\\Local\\Temp\\rust_mozprofileAcUA2j"
+1660274067789	Marionette	INFO	Marionette enabled
+1660274067794	Marionette	INFO	Listening on port 64575
+WebDriver BiDi listening on ws://localhost:64568
+1660274068123	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\ADMINI~1\\AppData\\Local\\Temp\\rust_mozprofileAcUA2j\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:64568/devtools/browser/b0c0734d-a110-4457-bece-1efb89c1ce12
+1660274069671	Marionette	INFO	Stopped listening on port 64575
+1660274125820	geckodriver	INFO	Listening on 127.0.0.1:64635
+1660274128921	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "64636" "-no-remote" "-profile" "C:\\Users\\ADMINI~1\\AppData\\Local\\Temp\\rust_mozprofile0xXYvv"
+1660274129231	Marionette	INFO	Marionette enabled
+1660274129235	Marionette	INFO	Listening on port 64643
+WebDriver BiDi listening on ws://localhost:64636
+1660274129568	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\ADMINI~1\\AppData\\Local\\Temp\\rust_mozprofile0xXYvv\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:64636/devtools/browser/f441494c-9056-4e98-abc4-d50fcd1754c2
+1660274159200	Marionette	INFO	Stopped listening on port 64643
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+remote-debugging-port" "64658" "-no-remote" "-profile" "C:\\Users\\ADMINI~1\\AppData\\Local\\Temp\\rust_mozprofileN0WvCx"
+1660274134530	Marionette	INFO	Marionette enabled
+1660274134535	Marionette	INFO	Listening on port 64677
+WebDriver BiDi listening on ws://localhost:64658
+1660274134878	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\ADMINI~1\\AppData\\Local\\Temp\\rust_mozprofileN0WvCx\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:64658/devtools/browser/dbe6250d-952a-45be-9851-893046e01626
+JavaScript warning: https://hectorstatic.baidu.com/96c9c06653ba892e.js, line 3: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.baidu.com"
+1660274137991	Marionette	INFO	Stopped listening on port 64677
+1660274138679	geckodriver	INFO	Listening on 127.0.0.1:64737
+1660274141741	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "64738" "-no-remote" "-profile" "C:\\Users\\ADMINI~1\\AppData\\Local\\Temp\\rust_mozprofilevJPmZp"
+1660274142060	Marionette	INFO	Marionette enabled
+1660274142065	Marionette	INFO	Listening on port 64745
+WebDriver BiDi listening on ws://localhost:64738
+1660274142403	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\ADMINI~1\\AppData\\Local\\Temp\\rust_mozprofilevJPmZp\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:64738/devtools/browser/754ddaa2-a76f-4bfc-a3a8-9e323d558e28
+JavaScript warning: https://hectorstatic.baidu.com/96c9c06653ba892e.js, line 3: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.baidu.com"
+1660274145599	Marionette	INFO	Stopped listening on port 64745
+1660274528706	geckodriver	INFO	Listening on 127.0.0.1:65125
+1660274531774	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "65126" "-no-remote" "-profile" "C:\\Users\\ADMINI~1\\AppData\\Local\\Temp\\rust_mozprofilezR5GeU"
+1660274532096	Marionette	INFO	Marionette enabled
+1660274532101	Marionette	INFO	Listening on port 65134
+WebDriver BiDi listening on ws://localhost:65126
+1660274532470	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\ADMINI~1\\AppData\\Local\\Temp\\rust_mozprofilezR5GeU\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:65126/devtools/browser/22bcde8d-c63f-4160-a2f9-5e5ec30496ea
+1660274534179	Marionette	INFO	Stopped listening on port 65134
+console.error: services.settings: 
+  main/query-stripping Signature failed  TypeError: NetworkError: Network request failed
+1660274557517	geckodriver	INFO	Listening on 127.0.0.1:65167
+1660274560596	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "65168" "-no-remote" "-profile" "C:\\Users\\ADMINI~1\\AppData\\Local\\Temp\\rust_mozprofileSUupMY"
+1660274560900	Marionette	INFO	Marionette enabled
+1660274560905	Marionette	INFO	Listening on port 65175
+WebDriver BiDi listening on ws://localhost:65168
+1660274561268	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\ADMINI~1\\AppData\\Local\\Temp\\rust_mozprofileSUupMY\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:65168/devtools/browser/ea2e61d9-0678-4de3-84cd-61ebc3d4c5d7
+JavaScript warning: https://hectorstatic.baidu.com/96c9c06653ba892e.js, line 3: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1660274564229	Marionette	INFO	Stopped listening on port 65175
+1660274578397	geckodriver	INFO	Listening on 127.0.0.1:65249
+1660274581486	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "65250" "-no-remote" "-profile" "C:\\Users\\ADMINI~1\\AppData\\Local\\Temp\\rust_mozprofileuYwmIw"
+1660274581795	Marionette	INFO	Marionette enabled
+1660274581799	Marionette	INFO	Listening on port 65258
+WebDriver BiDi listening on ws://localhost:65250
+1660274582163	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\ADMINI~1\\AppData\\Local\\Temp\\rust_mozprofileuYwmIw\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:65250/devtools/browser/3bce10a7-2639-41b3-b424-7f8e239fbd87
+JavaScript warning: https://hectorstatic.baidu.com/96c9c06653ba892e.js, line 3: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.baidu.com"
+1660274585053	Marionette	INFO	Stopped listening on port 65258
+1660275087190	geckodriver	INFO	Listening on 127.0.0.1:49411
+1660275090277	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "49412" "-no-remote" "-profile" "C:\\Users\\ADMINI~1\\AppData\\Local\\Temp\\rust_mozprofilexMRBLe"
+1660275090603	Marionette	INFO	Marionette enabled
+1660275090608	Marionette	INFO	Listening on port 49421
+WebDriver BiDi listening on ws://localhost:49412
+1660275090976	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\ADMINI~1\\AppData\\Local\\Temp\\rust_mozprofilexMRBLe\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:49412/devtools/browser/22e1e360-7abd-4d8d-9fb3-c4c834ce87db
+JavaScript warning: https://hectorstatic.baidu.com/96c9c06653ba892e.js, line 3: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.baidu.com"
+JavaScript error: resource://gre/actors/ContentMetaChild.jsm, line 185: InvalidStateError: JSWindowActorChild.sendAsyncMessage: JSWindowActorChild cannot send at the moment
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.baidu.com"
+1660275097535	Marionette	INFO	Stopped listening on port 49421
+1660275178466	geckodriver	INFO	Listening on 127.0.0.1:49615
+1660275181529	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "49616" "-no-remote" "-profile" "C:\\Users\\ADMINI~1\\AppData\\Local\\Temp\\rust_mozprofileIHDXoH"
+1660275181847	Marionette	INFO	Marionette enabled
+1660275181851	Marionette	INFO	Listening on port 49624
+WebDriver BiDi listening on ws://localhost:49616
+1660275182194	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\ADMINI~1\\AppData\\Local\\Temp\\rust_mozprofileIHDXoH\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:49616/devtools/browser/7edde538-969c-4e9e-bf42-e5e4aff6e262
+JavaScript warning: https://hectorstatic.baidu.com/96c9c06653ba892e.js, line 3: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.baidu.com"
+1660275187128	Marionette	INFO	Stopped listening on port 49624
+1660275676048	geckodriver	INFO	Listening on 127.0.0.1:50156
+1660275679126	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "50157" "-no-remote" "-profile" "C:\\Users\\ADMINI~1\\AppData\\Local\\Temp\\rust_mozprofileDrSXJZ"
+1660275679443	Marionette	INFO	Marionette enabled
+1660275679448	Marionette	INFO	Listening on port 50165
+WebDriver BiDi listening on ws://localhost:50157
+1660275679800	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\ADMINI~1\\AppData\\Local\\Temp\\rust_mozprofileDrSXJZ\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:50157/devtools/browser/ffa28ee7-79fb-4d08-b5a3-e2ed195ed129
+1660275682397	Marionette	INFO	Stopped listening on port 50165
+1660275704861	geckodriver	INFO	Listening on 127.0.0.1:50230
+1660275707939	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "50231" "-no-remote" "-profile" "C:\\Users\\ADMINI~1\\AppData\\Local\\Temp\\rust_mozprofileLMxrln"
+1660275708251	Marionette	INFO	Marionette enabled
+1660275708256	Marionette	INFO	Listening on port 50237
+WebDriver BiDi listening on ws://localhost:50231
+1660275708592	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\ADMINI~1\\AppData\\Local\\Temp\\rust_mozprofileLMxrln\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:50231/devtools/browser/9faff4f5-fa8e-4355-865a-8f446261a5e9
+JavaScript warning: https://hectorstatic.baidu.com/96c9c06653ba892e.js, line 3: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.baidu.com"
+1660275712236	Marionette	INFO	Stopped listening on port 50237
+1660275807639	geckodriver	INFO	Listening on 127.0.0.1:50379
+1660275810701	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "50380" "-no-remote" "-profile" "C:\\Users\\ADMINI~1\\AppData\\Local\\Temp\\rust_mozprofilebDsBnE"
+1660275811011	Marionette	INFO	Marionette enabled
+1660275811015	Marionette	INFO	Listening on port 50385
+WebDriver BiDi listening on ws://localhost:50380
+1660275811377	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\ADMINI~1\\AppData\\Local\\Temp\\rust_mozprofilebDsBnE\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:50380/devtools/browser/1d846b1b-28f4-41ed-be5c-64d458379165
+JavaScript warning: https://hectorstatic.baidu.com/96c9c06653ba892e.js, line 3: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.baidu.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.baidu.com"
+1660275818149	Marionette	INFO	Stopped listening on port 50385
+JavaScript warning: https://hectorstatic.baidu.com/96c9c06653ba892e.js, line 3: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1660275843283	geckodriver	INFO	Listening on 127.0.0.1:50521
+1660275846364	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "50522" "-no-remote" "-profile" "C:\\Users\\ADMINI~1\\AppData\\Local\\Temp\\rust_mozprofileHHi5bO"
+1660275846683	Marionette	INFO	Marionette enabled
+1660275846687	Marionette	INFO	Listening on port 50527
+WebDriver BiDi listening on ws://localhost:50522
+1660275847040	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\ADMINI~1\\AppData\\Local\\Temp\\rust_mozprofileHHi5bO\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:50522/devtools/browser/e4311ce2-2734-4299-8059-f38dccc54c59
+JavaScript warning: https://hectorstatic.baidu.com/96c9c06653ba892e.js, line 3: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.baidu.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.baidu.com"
+1660275851940	Marionette	INFO	Stopped listening on port 50527
+1660275903258	geckodriver	INFO	Listening on 127.0.0.1:50694
+1660275906353	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "50695" "-no-remote" "-profile" "C:\\Users\\ADMINI~1\\AppData\\Local\\Temp\\rust_mozprofilebMXQDg"
+1660275906685	Marionette	INFO	Marionette enabled
+1660275906689	Marionette	INFO	Listening on port 50707
+WebDriver BiDi listening on ws://localhost:50695
+1660275907019	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\ADMINI~1\\AppData\\Local\\Temp\\rust_mozprofilebMXQDg\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:50695/devtools/browser/5ddddc65-58a7-41eb-886c-81cd1c7d79a9
+JavaScript warning: https://hectorstatic.baidu.com/96c9c06653ba892e.js, line 3: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.baidu.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.baidu.com"
+1660275913451	Marionette	INFO	Stopped listening on port 50707
+1660276162057	geckodriver	INFO	Listening on 127.0.0.1:51293
+1660276165115	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "51294" "-no-remote" "-profile" "C:\\Users\\ADMINI~1\\AppData\\Local\\Temp\\rust_mozprofileQX1kWG"
+1660276165422	Marionette	INFO	Marionette enabled
+1660276165427	Marionette	INFO	Listening on port 51306
+WebDriver BiDi listening on ws://localhost:51294
+1660276165772	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\ADMINI~1\\AppData\\Local\\Temp\\rust_mozprofileQX1kWG\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:51294/devtools/browser/4c75b41d-67bb-4ba9-92a3-28a069066cd7
+JavaScript warning: https://hectorstatic.baidu.com/96c9c06653ba892e.js, line 3: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.baidu.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.baidu.com"
+1660276174002	Marionette	INFO	Stopped listening on port 51306
+1660276201871	geckodriver	INFO	Listening on 127.0.0.1:51464
+1660276204936	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "51465" "-no-remote" "-profile" "C:\\Users\\ADMINI~1\\AppData\\Local\\Temp\\rust_mozprofile8PQID8"
+1660276205249	Marionette	INFO	Marionette enabled
+1660276205254	Marionette	INFO	Listening on port 51473
+WebDriver BiDi listening on ws://localhost:51465
+1660276205603	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\ADMINI~1\\AppData\\Local\\Temp\\rust_mozprofile8PQID8\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:51465/devtools/browser/5a1cf2a7-b7aa-4290-ad72-20603c66400f
+JavaScript warning: https://hectorstatic.baidu.com/96c9c06653ba892e.js, line 3: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.baidu.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.baidu.com"
+1660276214726	Marionette	INFO	Stopped listening on port 51473
+1660524721674	geckodriver	INFO	Listening on 127.0.0.1:51540
+1660524724725	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "51541" "-no-remote" "-profile" "C:\\Users\\ADMINI~1\\AppData\\Local\\Temp\\rust_mozprofileTNogrN"
+1660524726179	Marionette	INFO	Marionette enabled
+1660524726183	Marionette	INFO	Listening on port 51551
+WebDriver BiDi listening on ws://localhost:51541
+1660524726433	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\ADMINI~1\\AppData\\Local\\Temp\\rust_mozprofileTNogrN\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:51541/devtools/browser/946e2e6d-f0b4-4230-8f66-5e4f08878542
+JavaScript warning: https://hectorstatic.baidu.com/96c9c06653ba892e.js, line 3: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.baidu.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.baidu.com"
+1660524738801	Marionette	INFO	Stopped listening on port 51551
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1660525488090	geckodriver	INFO	Listening on 127.0.0.1:52422
+1660525491103	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "52423" "-no-remote" "-profile" "C:\\Users\\ADMINI~1\\AppData\\Local\\Temp\\rust_mozprofilecQX4Bj"
+1660525491463	Marionette	INFO	Marionette enabled
+1660525491467	Marionette	INFO	Listening on port 52432
+WebDriver BiDi listening on ws://localhost:52423
+1660525491846	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\ADMINI~1\\AppData\\Local\\Temp\\rust_mozprofilecQX4Bj\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:52423/devtools/browser/d29b7fd9-cf40-4e53-b5db-d2277abd6b06
+console.error: Region.jsm: "Error fetching region" (new Error("TIMEOUT", "resource://gre/modules/Region.jsm", 769))
+console.error: Region.jsm: "Failed to fetch region" (new Error("TIMEOUT", "resource://gre/modules/Region.jsm", 421))
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.baidu.com"
+JavaScript warning: https://hectorstatic.baidu.com/96c9c06653ba892e.js, line 3: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.baidu.com"
+1660525549159	Marionette	INFO	Stopped listening on port 52432
+1660528724894	geckodriver	INFO	Listening on 127.0.0.1:54059
+1660528727972	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "54060" "-no-remote" "-profile" "C:\\Users\\ADMINI~1\\AppData\\Local\\Temp\\rust_mozprofileDPuSaI"
+1660528728330	Marionette	INFO	Marionette enabled
+1660528728335	Marionette	INFO	Listening on port 54067
+WebDriver BiDi listening on ws://localhost:54060
+1660528728711	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\ADMINI~1\\AppData\\Local\\Temp\\rust_mozprofileDPuSaI\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:54060/devtools/browser/ed8f1525-b8c4-4f94-b5b1-a7140b567a95
+console.error: services.settings: 
+  main/query-stripping Signature failed  TypeError: NetworkError: Network request failed
+JavaScript warning: https://hectorstatic.baidu.com/96c9c06653ba892e.js, line 3: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.baidu.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.baidu.com"
+1660528779958	Marionette	INFO	Stopped listening on port 54067
+1660642387688	geckodriver	INFO	Listening on 127.0.0.1:52952
+1660642390706	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "52953" "-no-remote" "-profile" "C:\\Users\\ADMINI~1\\AppData\\Local\\Temp\\rust_mozprofile83xOSF"
+1660642392399	Marionette	INFO	Marionette enabled
+1660642392408	Marionette	INFO	Listening on port 52964
+WebDriver BiDi listening on ws://localhost:52953
+1660642393689	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\ADMINI~1\\AppData\\Local\\Temp\\rust_mozprofile83xOSF\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:52953/devtools/browser/3eada116-bef3-47e6-9b96-c88bd6eb6f07
+JavaScript warning: https://hectorstatic.baidu.com/96c9c06653ba892e.js, line 3: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.baidu.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.baidu.com"
+1660642403374	Marionette	INFO	Stopped listening on port 52964
+1660642441874	geckodriver	INFO	Listening on 127.0.0.1:53121
+1660642444930	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "53122" "-no-remote" "-profile" "C:\\Users\\ADMINI~1\\AppData\\Local\\Temp\\rust_mozprofileLDXB1b"
+1660642445318	Marionette	INFO	Marionette enabled
+1660642445322	Marionette	INFO	Listening on port 53130
+WebDriver BiDi listening on ws://localhost:53122
+1660642445675	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\ADMINI~1\\AppData\\Local\\Temp\\rust_mozprofileLDXB1b\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:53122/devtools/browser/9e2f00be-b30a-4797-8185-da903da690d4
+JavaScript warning: https://hectorstatic.baidu.com/96c9c06653ba892e.js, line 3: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.baidu.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.baidu.com"
+1660642453027	Marionette	INFO	Stopped listening on port 53130
+1660642467922	geckodriver	INFO	Listening on 127.0.0.1:53252
+1660642470995	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "53253" "-no-remote" "-profile" "C:\\Users\\ADMINI~1\\AppData\\Local\\Temp\\rust_mozprofileuUEUWB"
+1660642471352	Marionette	INFO	Marionette enabled
+1660642471357	Marionette	INFO	Listening on port 53261
+WebDriver BiDi listening on ws://localhost:53253
+1660642471712	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\ADMINI~1\\AppData\\Local\\Temp\\rust_mozprofileuUEUWB\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:53253/devtools/browser/e0e89b3d-d531-48ca-b741-5d3719cf6e3e
+JavaScript warning: https://hectorstatic.baidu.com/96c9c06653ba892e.js, line 3: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.baidu.com"
+1660642475474	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.baidu.com"
+1660642478093	Marionette	INFO	Stopped listening on port 53261
+1660703177035	geckodriver	INFO	Listening on 127.0.0.1:50488
+1660703180141	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "50489" "-no-remote" "-profile" "C:\\Users\\ADMINI~1\\AppData\\Local\\Temp\\rust_mozprofileQSdaoe"
+1660703182088	Marionette	INFO	Marionette enabled
+1660703182093	Marionette	INFO	Listening on port 50495
+WebDriver BiDi listening on ws://localhost:50489
+1660703182375	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\ADMINI~1\\AppData\\Local\\Temp\\rust_mozprofileQSdaoe\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:50489/devtools/browser/15e406d4-fc13-4b81-b0f5-9e3ea681df6a
+JavaScript warning: https://hectorstatic.baidu.com/96c9c06653ba892e.js, line 3: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.baidu.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.baidu.com"
+1660703191495	Marionette	INFO	Stopped listening on port 50495
+[Parent 12996, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
